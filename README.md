@@ -49,7 +49,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=pelif&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pelif&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
